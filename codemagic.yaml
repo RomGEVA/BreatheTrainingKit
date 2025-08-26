@@ -7,8 +7,8 @@ workflows:
         vars:
           XCODE_WORKSPACE: "BreatheTrainingKit.xcworkspace"
           XCODE_SCHEME: "BreatheTrainingKit"
-          BUNDLE_ID: "com.speedmath1303.d23"
-          EXTENSION_BUDNLE_ID: "com.speedmath1303.d23.OneSignalNotificationServiceExtension"
+          BUNDLE_ID: "com.breathetrinig3342.kgf4"
+          EXTENSION_BUDNLE_ID: "com.breathetrinig3342.kgf4.OneSignalNotificationServiceExtension"
           APP_STORE_APP_ID: 6746077720
         xcode: latest
         cocoapods: 1.14.2
